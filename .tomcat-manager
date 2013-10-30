@@ -1,13 +1,17 @@
 {
     "Servers": {
         "Local Server 1": {
-            "AppServer": "tomcat"
+            "AppServer": "apache-7.40"
+        },
+        "Local Server 2": {
+            "extra-options": "nothing",
+            "AppServer": "apache-7.40"
         }
     },
     "AppServers": {
-        "tomcat": {
+        "apache-7.40": {
             "type": "tomcat",
-            "path": "/Users/macbookmarconi/Desktop/tomcat-bgstudio"
+            "path": "/Users/MiguelCastillo/Documents/apache-tomcat-7.0.40"
         }
     }
 }
