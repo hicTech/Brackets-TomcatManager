@@ -3,7 +3,7 @@
         "Local Server 1": {
             "AppServer": "apache-7.40"
         },
-        "Local Server 2": {
+        "Local Server 2":{
             "extra-options": "nothing",
             "AppServer": "apache-7.40"
         }
