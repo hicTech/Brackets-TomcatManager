@@ -7,7 +7,7 @@
     "AppServers": {
         "tomcat": {
             "type": "tomcat",
-            "path": "/Users/macbookmarconi/Desktop/tomcat-bgstudio "
+            "path": "/Users/macbookmarconi/Desktop/tomcat-bgstudio"
         }
     }
 }
