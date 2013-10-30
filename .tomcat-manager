@@ -11,7 +11,7 @@
     "AppServers": {
         "apache-7.40": {
             "type": "tomcat",
-            "path": "/Users/macbookmarconi/Desktop/tomcat-bgstudio"
+            "path": "/Applications/apache-tomcat"
         }
     }
 }
